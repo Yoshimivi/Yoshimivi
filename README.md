@@ -23,6 +23,7 @@
 <a href="https://www.instagram.com/yoshi_vi/" target="_blank"><img src="https://img.icons8.com/ae81ce/instagram-new" target="_blank"></a>
 <a href="https://www.linkedin.com/in/victor-yoshimi" target="_blank"><img src="https://img.icons8.com/ae81ce/linkedin" target="_blank"></a>
 <a href="mailto:yoshimisuzaki@gmail.com" target="_blank"><img src="https://img.icons8.com/ae81ce/gmail" target="_blank"></a>
+<a href="https://www.linkedin.com/in/victor-yoshimi" target="_blank"><img src="https://img.icons8.com/ae81ce/codepen" target="_blank"></a>
   
 ##
 <br>
